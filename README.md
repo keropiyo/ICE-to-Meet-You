@@ -63,6 +63,24 @@ The M5Stamp C3U sends the MIDI notes to the Unit Synth while controlling the mov
 
 This allows the music and the dance to become one small performance.
 
+### Lyrics
+
+> On a little piece of ice,  
+> I met someone oh-so-nice,  
+> You looked at me, I looked at you,  
+> And suddenly the whole world flew!
+>
+> Round and round, we softly glide,  
+> Two little penguins, side by side,  
+> Round and round, just me and you,  
+> Underneath the sky so blue.
+>
+> Nice to meet you,  
+> **ICE to Meet You!**  
+> Round we go, just me and you!  
+> **Imaginative, Creative, Engineering,**  
+> Making little dreams come true!
+
 ---
 ## Hardware
 
