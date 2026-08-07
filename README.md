@@ -1,7 +1,8 @@
 # ICE-to-Meet-You
 ### Imaginative Creative Engineering
+![ICE to Meet You Logo](images/ICEtoMeetYouImage.png)
 **A magnetic dancing penguin music box powered by M5Stamp C3U with MIDI music.**
-![ICE to Meet You Logo](images/ICEtoMeetYouLogo.png)
+
 ## About
 
 Two little penguins meet for the first time on the ice.  
