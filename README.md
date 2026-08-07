@@ -80,7 +80,7 @@ This allows the music and the dance to become one small performance.
 ---
 
 ## System
-
+```text
                     ┌── MIDI ──> M5Stack Unit Synth
                     │                │
                     │                └──> Built-in Speaker
@@ -94,7 +94,8 @@ M5Stamp C3U ────────┤
                                                 │
                                                 ▼
                                       Dancing Penguins
-Story
+```
+## Story
 
 Two little penguins meet for the first time on the ice.
 
