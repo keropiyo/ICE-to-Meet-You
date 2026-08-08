@@ -95,7 +95,7 @@ This allows the music and the dance to become one small performance.
 - Magnets
 - USB 5V power supply
 - Handmade iceberg
-- Two handmade penguins
+- Two penguin figurines
 
 ---
 
