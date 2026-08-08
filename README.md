@@ -94,7 +94,7 @@ This allows the music and the dance to become one small performance.
 - Resistor
 - Magnets
 - USB 5V power supply
-- Handmade iceberg
+- 3D-printed iceberg  (original design in Autodesk Fusion)
 - Two penguin figurines
 
 ---
