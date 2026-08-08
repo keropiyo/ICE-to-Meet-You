@@ -115,6 +115,19 @@ M5Stamp C3U ────────┤
                                                 ▼
                                       Dancing Penguins
 ```
+
+## 3D Models
+
+The iceberg base and the two penguins are original 3D models designed in Autodesk Fusion specifically for ICE to Meet You.
+
+All 3D model files used in this project are available in the [`3D-Model`](3D-Model/) folder.
+
+The iceberg base is designed to house the M5Stamp C3U, motor, magnets, and other electronic components.
+
+Magnets are embedded in the penguins. As the magnet underneath the surface rotates, magnetic force makes the penguins move and dance on the ice.
+
+The models can be downloaded and 3D printed to recreate ICE to Meet You.
+
 ## Story
 
 Two little penguins meet for the first time on the ice.
